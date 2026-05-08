@@ -1,0 +1,8 @@
+application.windows64/
+application.linux64/
+application.macosx/
+
+*.exe
+*.dll
+*.jar
+*.class
