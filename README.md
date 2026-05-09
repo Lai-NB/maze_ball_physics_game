@@ -5,16 +5,17 @@ A 3D physics-based maze game developed using Processing (Java Mode).
 Players control a rolling ball by tilting the board, navigating through maze obstacles, avoiding holes, and reaching the goal area as quickly as possible.
 
 ---
-
 ## Gameplay Preview
 
-![Main Menu](screenshots/main-menu.png)
+<p align="center">
+  <img src="screenshots/main-menu.png" width="45%">
+  <img src="screenshots/tutorial.png" width="45%">
+</p>
 
-![Tutorial](screenshots/tutorial.png)
-
-![Gameplay](screenshots/gameplay.png)
-
-![Game Won](screenshots/game-won.png)
+<p align="center">
+  <img src="screenshots/gameplay.png" width="45%">
+  <img src="screenshots/game-won.png" width="45%">
+</p>
 
 ---
 
