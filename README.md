@@ -84,7 +84,7 @@ Players control a rolling ball by tilting the board, navigating through maze obs
 
 ## Download Playable Version
 
-Download the latest playable build from the repository Releases section.
+Download the latest playable version from the [Releases](../../releases) page.
 
 ---
 
@@ -101,16 +101,6 @@ MazeBall/
 
 ---
 
-## Screenshots Folder
-
-Place these images inside the `screenshots` folder:
-
-* `main-menu.png`
-* `tutorial.png`
-* `gameplay.png`
-* `game-won.png`
-
----
 
 ## Author
 
